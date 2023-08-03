@@ -1,0 +1,14 @@
+-- import: fastn-community.github.io/pattern-business-card
+
+-- ds.page: My Business Card
+
+-- pattern-business-card.details: John Doe
+company-name: John Doe Pvt. Ltd.
+title: Software Developer
+phone-no: +91 12345 99999
+email: john@johndoe.com
+address: 123, Block No. A-123, Times Square, Bangalore - 123456
+logo: $assets.files.assets.fastn-logo.svg
+website: www.johndoe.com
+
+-- end: ds.page
